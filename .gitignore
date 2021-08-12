@@ -1,0 +1,5 @@
+Lib/*
+.vscode/*
+Scripts/*
+*/__pycache__
+root/settings.py
